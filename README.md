@@ -115,7 +115,7 @@ The following are the major contributors of Alfredo (in no specific order).
 * Nicholas Penree ([drudge](http://github.com/drudge))
 * Sérgio Ramos ([ramitos](http://github.com/ramitos))
 
-This module is heavily inspired by [alfredo](https://github.com/phyllisstein/alfredo), from [Daniel Shannon](https://github.com/phyllisstein).
+This module is heavily inspired by [alp](https://github.com/phyllisstein/alp), from [Daniel Shannon](https://github.com/phyllisstein).
 
 ## License
 
