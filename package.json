@@ -1,0 +1,26 @@
+{
+  "name": "alfredo",
+  "version": "0.2.0",
+  "description": "A Node Module for Alfred Workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drudge/node-alfredo.git"
+  },
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alp"
+  ],
+  "author": "Nicholas Penree <nick@penree.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fuzzy-filter": "^0.0.3",
+    "js2xmlparser": "^0.1.4",
+    "keychain": "^0.0.4",
+    "plist": "^1.0.1"
+  }
+}
