@@ -41,12 +41,12 @@ Alfredo uses a robust and complete implementation of Alfred's feedback system, g
     A nifty trick is to pass an object with some or all of `Alfredo.Item`'s keys and values into the initializer. So you could conceivably do this:
 
     ```js
-    var i = alfredo.Item({
+    var i = new alfredo.Item({
       title: "A Title", 
       subtitle: "This is only a test.", 
       uid: "alfredo-test", 
       valid: false
-    })
+    });
     ```
 
 * `Item.get()`  
@@ -103,6 +103,10 @@ the behind, but Alfredo makes working with it a breeze using the [node-keychain]
 * `alfredo.keychain.deletePasswordSync(opts)`
     Removes `opts.account` and `opts.service`'s password from the Keychain.
 
+## Examples
+
+* [Tower Repositories](https://github.com/drudge/tower-alfred-workflow)
+* [Chocolat Projects](https://github.com/drudge/chocolat-alfred-workflow)
 
 ## Help and Support
 The [Alfred v2 forums](http://www.alfredforum.com) are a good place to look for answers, but you can also file an issue or reach me on Twitter at [@npenree](http://twitter.com/npenree).
