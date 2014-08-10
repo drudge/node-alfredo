@@ -105,8 +105,8 @@ the behind, but Alfredo makes working with it a breeze using the [node-keychain]
 
 ## Examples
 
-* [Tower Repositories](https://github.com/drudge/tower-alfred-workflow)
-* [Chocolat Projects](https://github.com/drudge/chocolat-alfred-workflow)
+* [Tower Repositories](https://github.com/drudge/tower-alfred-workflow): Quickly access your Tower 2 git repositories from Alfred 2
+* [Chocolat Projects](https://github.com/drudge/chocolat-alfred-workflow): Alfred 2 workflow for opening projects, files, or folders in Chocolat
 
 ## Help and Support
 The [Alfred v2 forums](http://www.alfredforum.com) are a good place to look for answers, but you can also file an issue or reach me on Twitter at [@npenree](http://twitter.com/npenree).
